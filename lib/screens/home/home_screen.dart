@@ -28,7 +28,7 @@ class _HomeScreenState extends State<HomeScreen> {
       backgroundColor: Colors.black,
       body: _pages[_currentIndex],
 
-      // 🔥 FAB on Right Side
+      
       floatingActionButton: _currentIndex == 0
           ? FloatingActionButton(
         backgroundColor: Colors.white,
@@ -46,7 +46,7 @@ class _HomeScreenState extends State<HomeScreen> {
       )
           : null,
 
-      // 👇 THIS is the important change
+      
       floatingActionButtonLocation:
       FloatingActionButtonLocation.endFloat,
 
