@@ -19,7 +19,7 @@ Many people want to play sports but struggle to find players nearby. PLAYMATE so
 Users can log in securely using their email and password.
 
 <p align="center">
-  <img src="screenshots/login.png" alt="Login Screen" width="250"/>
+  <img src="screenshots/login.png.png" alt="Login Screen" width="250"/>
 </p>
 
 **Highlights:**
@@ -33,7 +33,7 @@ Users can log in securely using their email and password.
 New users can register by entering their personal and sports details.
 
 <p align="center">
-  <img src="screenshots/signup.png" alt="Create Account Screen" width="250"/>
+  <img src="screenshots/signup.png.png" alt="Create Account Screen" width="250"/>
 </p>
 
 **Users can add:**
@@ -54,7 +54,7 @@ This helps the system match players with similar interests and skill levels.
 Users can browse available matches and join instantly.
 
 <p align="center">
-  <img src="screenshots/matches.png" alt="Matches Screen" width="250"/>
+  <img src="screenshots/matches.png.png" alt="Matches Screen" width="250"/>
 </p>
 
 **Match cards display:**
@@ -72,7 +72,7 @@ Users can tap **Join Match** to participate.
 Each user has a personalized profile showing their sports identity.
 
 <p align="center">
-  <img src="screenshots/profile.png" alt="Profile Screen" width="250"/>
+  <img src="screenshots/profile.png.png" alt="Profile Screen" width="250"/>
 </p>
 
 **Profile includes:**
@@ -91,7 +91,7 @@ This helps players connect with compatible teammates.
 The equipment section allows users to buy, rent, or share sports gear.
 
 <p align="center">
-  <img src="screenshots/equipment.png" alt="Equipment Screen" width="250"/>
+  <img src="screenshots/equipment.png.png" alt="Equipment Screen" width="250"/>
 </p>
 
 **Users can:**
